@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951618252568",
+    "project_id": "task-check-9712e",
+    "storage_bucket": "task-check-9712e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951618252568:android:2b10ecbf01d911a2eaf86d",
+        "android_client_info": {
+          "package_name": "com.example.task_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVYX9vYLwviX1VCP-KfwOZ6jjFgL6qX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

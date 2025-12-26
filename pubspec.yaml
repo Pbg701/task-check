@@ -1,0 +1,33 @@
+name: offline_task_checkin_app
+description: Offline Task & Check-in mobile app with GetX, Firebase Auth, and Hive offline-first.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.5
+  cloud_firestore: ^4.13.6
+  google_sign_in: ^6.1.6
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  connectivity_plus: ^6.0.3
+  geolocator: ^11.0.0
+  intl: ^0.20.2
+  flutter_localizations:
+    sdk: flutter
+  path_provider: ^2.1.2
+  uuid: ^4.3.3
+  retrofit: ^4.0.3
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
