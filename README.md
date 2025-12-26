@@ -83,4 +83,4 @@ flutter run
 ---
 
 ## Maintainers
-- TODO: Add authors
+- TODO: Prashant Gaikwad
