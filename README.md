@@ -1,4 +1,4 @@
-# Offline Task & Check-in App
+# Check-in App
 
 **Production-ready Flutter offline-first app with GetX, Firebase Auth, Hive, and Clean Architecture**
 
